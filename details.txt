@@ -1,0 +1,109 @@
+---JAVA & SPRING--------------------------------
+
+Strong basics/fundamentals of Java programming (strongly prefer Java 8 experience) and 
+fundamentals of OOP design and architecture
+
+(4+ years of) experience on core java, spring, Maven, Gradle and Junit
+
+
+2+ years of experience in writing multi-threading java programming 
+
+4+ years of experience, advanced knowledge, and understanding of web application development (Spring Framework, REST API and Design Patterns)
+
+Experience on Java/J2EE
+
+Excellent Web service development skills
+
+REST, SOAP web services, Spring MVC
+
+Server side development and debugging skills
+
+Familiarity of (good) Linux (experience)
+
+Skills Set: Solution Design, Java J2EE, Spring, Web Services (SOAP & REST), 
+JSON, XML, Eclipse, Junit, Bit Bucket, GitHub, JIRA, , Hibernate, Bamboo, 
+Jenkins, basic SQL 
+
+ Experience developing RESTful Web Services
+
+Strong understanding of back end technologies
+
+Solid understanding of JSON and XML
+
+Experience with continuous integration tools, like GIT, JIRA, Jenkins, Maven
+
+Knowledge of source code control management systems and configuration management (Git preferred).
+
+Write backend services using Java, Spring and Hibernate
+
+3-5 years with Enterprise Java on version 7 and/or 8
+
+Experience with GIT version control
+
+Develop RESTfully accessed entities based on established conventions and standards
+
+Participate in the technical design and implementation of our software
+
+Unit test authored code and assist QA department with formulation of test plans
+
+Experience with a well-known relational database, preferably MS SQL
+
+Experience in a server-side web development stack incorporating Hibernate or another ORM, Java, and Spring
+
+Experience in client side frameworks such as JQuery, JavaScript, JSP/Servlets, HTML5/CSS, XML/XSLT
+
+Minimum of 6+years of experience in design and development of large scale applications
+
+Proficiency in Java, Hibernate, Spring and a thorough understanding of unit testing is required
+
+---- AGILE ----------------------------------
+
+Agile development experience (at least good understanding of agile principles and practices) 
+
+Experience with system development life cycle (SDLC) and IT Methodologies, such as Agile/Waterfall development approach
+
+
+Strong SDLC experience in a collaborative team environment using Agile methodology 
+
+Must have knowledge of SDLC project life cycle (Agile, Waterfall)
+
+Familiar with different software development methodologies (Waterfall, Agile, Scrum)
+
+Agile software development practices – XP, Kanban or Scrum
+
+
+----FRONT ANGULAR ---------------------------
+
+2+ years of experience in Front-End Development (HTML5, JavaScript, CSS, Sprint Boot, Angular JS, Bootstrap)
+
+Experience with technologies such as JavaScript, Ajax, jQuery, Bootstrap, DataTables, CSS, HTML
+
+Develop responsive web applications using Angular and Bootstrap 
+
+----SQL -------------------------------------
+
+PL/SQL knowledge
+
+Proficient at writing PLSQL preferably with Oracle versions 11 or higher
+
+----- MYSELF----------------------------------
+
+Self-motivated to work independently and within cross-functional teams
+
+Able to work in a fast-paced, fun and collaborative environment
+
+Continual improvement - must continually be growing ones craft learning new tools and techniques
+
+------OSTALO---------------------------------------
+
+Good technical understanding of Java, C or Perl development languages
+
+
+
+
+
+
+
+
+
+
